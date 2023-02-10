@@ -8,8 +8,8 @@ This is a practice project of the [Android Basics in Compose] course from Google
 This app is based on the [Practice Build Sports app] Codelab.
 
 [Android Basics in Compose]: https://developer.android.com/courses/android-basics-compose/course
-[Unit 7]: https://developer.android.com/courses/android-basics-compose/unit-4
-[Pathway 1]: https://developer.android.com/courses/pathways/android-basics-compose-unit-4-pathway-3
+[Unit 4]: https://developer.android.com/courses/android-basics-compose/unit-4
+[Pathway 3]: https://developer.android.com/courses/pathways/android-basics-compose-unit-4-pathway-3
 [Practice Build Sports app]: https://developer.android.com/codelabs/basic-android-kotlin-compose-practice-sports-app
 
 ---
