@@ -26,6 +26,6 @@ Environment
 ```
 language: kotlin
 repo: sportsapp_composed
-status: active
+status: archived
 updated: 2023-04-04
 ```
